@@ -142,4 +142,4 @@ For Cassandra, the application uses the native Cassandra driver. Schema setup is
 
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/habit-tracker](https://github.com/yourusername/habit-tracker)
+Project Link: https://github.com/03nnn/habit_tracker_NoSql_Implementation/
