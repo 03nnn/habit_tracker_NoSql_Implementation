@@ -58,7 +58,7 @@ habit-tracker/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/habit-tracker.git
+   git clone https://github.com/03nnn/habit_tracker_NoSql_Implementation/
    cd habit-tracker
    ```
 
